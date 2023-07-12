@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abasol"
+  ],
+  "author": "abasols",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0",
+    "superheroes": "^3.0.0"
+  }
+}
